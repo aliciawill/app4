@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.d("git>> ", "내용 변경됨..");
+        Log.d("git>> ", "내용 또또....변경됨2..");
     }
 }
