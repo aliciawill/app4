@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d("git>> ", "내용 또또....변경됨2..");
         //여기를 좀 바꾸면 어떨까..그러면 정말 좋겠어..!!!
+        //내가 또 변경해보았어.....!
     }
 }
